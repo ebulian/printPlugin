@@ -1,0 +1,4 @@
+printPlugin
+===========
+
+phonegap plugin testing
